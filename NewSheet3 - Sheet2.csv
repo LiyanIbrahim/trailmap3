@@ -1,0 +1,8 @@
+FILE,place,LAT_COMB,LNG_COMB,dates,houses,horses,camels,donkeys,cattle,sheep_goats,Animals ,dates scale ,houses scale ,Animals scale 
+baraimi_oasis.txt,'Ain Dhawāhir,24.19167,55.76056,20000,280,40,150,100,100,1000,1390,200,2.8,13.9
+baraimi_oasis.txt,Jīmi,24.24914,55.74582,6000,200,6,60,40,40,100,246,60,2,2.46
+baraimi_oasis.txt,Hili,24.28473,55.7633,2000,80,0,40,20,20,60,140,20,0.8,1.4
+baraimi_oasis.txt,Ma'ataradh,24.219,55.73989,4000,200,0,40,20,20,70,150,40,2,1.5
+baraimi_oasis.txt,Qatārah,24.25993,55.75566,5000,120,0,60,30,40,100,230,50,1.2,2.3
+baraimi_oasis.txt,Su'arah,24.25,55.78389,10000,100,0,100,50,50,500,700,100,1,7
+baraimi_village.txt,Baraimi,24.25088,55.79312,10000,85,0,100,50,50,500,700,1000,0.85,7
